@@ -1,0 +1,15 @@
+Sample prediction :
+
+Epoch 1/5
+1/1 [==============================] - 0s 649us/step - loss: 0.0488
+Epoch 2/5
+1/1 [==============================] - 0s 752us/step - loss: 0.0479
+Epoch 3/5
+1/1 [==============================] - 0s 903us/step - loss: 0.0473
+Epoch 4/5
+1/1 [==============================] - 0s 448us/step - loss: 0.0468
+Epoch 5/5
+1/1 [==============================] - 0s 383us/step - loss: 0.0464
+The price for seven bedroom house is [[4.302205]]. hundred thousands
+
+Process finished with exit code 0
